@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Production
+
+Currently deployed to production at youtube-app-hooks-paulzala.vercel.app
+
 ## Available Scripts
 
 In the project directory, you can run:
